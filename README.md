@@ -1,4 +1,4 @@
-# XMRig
+# ReCoal-XMRig Miner
 
 :warning: **If you mine ReCoal, Monero, Aeon, Sumokoin, Turtlecoin, Stellite, GRAFT, Haven Protocol, IPBC, [PLEASE READ](https://github.com/xmrig/xmrig/issues/482)!** :warning:
 
